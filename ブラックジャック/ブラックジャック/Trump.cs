@@ -8,5 +8,6 @@ namespace ブラックジャック
 {
     internal class Trump
     {
+        int[,] trump = new  int[4,13];
     }
 }
